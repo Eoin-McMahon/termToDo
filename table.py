@@ -46,7 +46,7 @@ class Table():
         print("Enter Item ID:")
         item_id = int(self.utils.showInputField())
         text = self.items[item_id]
-        replacement = input("\r%s" % text)
+        replacement = input("\r%s >> " % text)
         self.items[item_id] = replacement
         self.draw_table()
 

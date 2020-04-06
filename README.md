@@ -11,4 +11,7 @@ Optionally, you can set an alias in your .basrc or .zshrc etc with:
 then todo can be called anywhere in the file system.
 
 A demo is shown below:
+
+<br>
+
 ![demo](./demo.gif)
